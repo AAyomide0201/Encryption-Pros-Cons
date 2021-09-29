@@ -1,2 +1,2 @@
 # Encryption-Pros-Cons
-Thh
+This group project work was conducted in partnership with the Internet Society, to develop a decision-making framework for policymakers to consider in their deliberations regarding the weakening od encrtption technologies. Using a multi-methodological approach, stakeholder interests were identified from civil society, industry and policymaker groups. Specifically, multicriteria mapping aided in uncovering distinct and overlapping interests which were distilled into the decision-making framework.
